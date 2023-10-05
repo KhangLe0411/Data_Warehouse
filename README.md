@@ -4,6 +4,7 @@
 Project được thực hiện bởi 3 thành viên
 - Lê Hoàng Khang (github: https://github.com/KhangLe0411)
 - Nguyễn Thanh Hùng (github: https://github.com/nguyenthanhhungDE)
+- Nguyễn Duy Thái
 ## 1. Giới thiệu đề tài
 ![image](https://github.com/nguyenthanhhungDE/DATA-WAREHOUSE-ACCIDENT-US-2016-2021/assets/134383281/b5668439-fd71-4e9c-bac7-ff02461a3144)
 
